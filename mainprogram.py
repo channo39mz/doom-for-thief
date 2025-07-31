@@ -4,9 +4,9 @@ import ssl
 import random
 from email.message import EmailMessage
 
-EMAIL_SENDER = "you@gmail.com"
-EMAIL_PASSWORD = "your_app_password"
-EMAIL_RECEIVER = "you@gmail.com"  # หรืออีเมลของมหาวิทยาลัย
+EMAIL_SENDER = "65050197@kmitl.ac.th"
+EMAIL_PASSWORD = "bbdh ubto ppmd nvqk" #bbdh ubto ppmd nvqk
+EMAIL_RECEIVER = "channo10mz@gmail.com"  # หรืออีเมลของมหาวิทยาลัย
 
 otp = str(random.randint(100000, 999999))
 
